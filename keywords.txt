@@ -1,1 +1,3 @@
 ShittyBoard KEYWORD1
+getCoords KEYWORD2
+drawIcon KEYWORD2

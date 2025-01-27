@@ -19,7 +19,7 @@
         "espressif32"
     ],
     "headers": [
-        "ESP32-HUB75-MatrixPanel-I2S-DMA.h", "ESP32-VirtualMatrixPanel-I2S-DMA.h"
+        "ESP32-HUB75-MatrixPanel-I2S-DMA-1-4.h"
     ],  
     "examples": [
         {

@@ -1,0 +1,33 @@
+{
+    "name": "ESP32 HUB75 LED MATRIX PANEL DMA Display 1/4",
+    "version": "0.0.1",
+    "description": "Addon for lib \"ESP32 HUB75 LED MATRIX PANEL DMA Display\" that handle weird cheap 1/4 board",
+    "keywords": "hub75, esp32, esp32s2, esp32s3, display, dma, rgb matrix",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DCR-Contribution-Projects/ESP32-HUB75-LED-MATRIX-PANEL-DMA-Display-1-4.git"
+    },
+    "authors": {
+        "name": "Dave-C-Ross",
+        "url": "https://github.com/Dave-c-Ross"
+    },
+    "frameworks": [
+        "arduino",
+        "espidf"
+    ],
+    "platforms": [
+        "espressif32"
+    ],
+    "headers": [
+        "ESP32-HUB75-MatrixPanel-I2S-DMA.h", "ESP32-VirtualMatrixPanel-I2S-DMA.h"
+    ],  
+    "examples": [
+        {
+            "name": "96x16-Simple",
+            "base": "examples/96x16-Simple",
+            "files": [
+                "96x16-Simple.ino"
+            ]
+        }
+    ]
+}

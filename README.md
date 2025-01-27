@@ -1,0 +1,1 @@
+This is a wrapper class on top of https://github.com/mrcodetastic/ESP32-HUB75-MatrixPanel-DMA to support more cheap P10 display (with weird pixel remapping) bought on Amazon: https://www.amazon.ca/dp/B0D315BDQC?ref=ppx_yo2ov_dt_b_fed_asin_title
